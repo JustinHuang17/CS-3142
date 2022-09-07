@@ -1,0 +1,32 @@
+Script started on 2022-09-06 23:53:20-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;justin@DESKTOP-US45HKP: /mnt/f/CS/CS-3142/Hw1[01;32mjustin@DESKTOP-US45HKP[00m:[01;34m/mnt/f/CS/CS-3142/Hw1[00m$ g++ version
+[01m[Kg++:[m[K [01;31m[Kerror: [m[Kversion: No such file or directory
+[01m[Kg++:[m[K [01;31m[Kfatal error: [m[Kno input files
+compilation terminated.
+]0;justin@DESKTOP-US45HKP: /mnt/f/CS/CS-3142/Hw1[01;32mjustin@DESKTOP-US45HKP[00m:[01;34m/mnt/f/CS/CS-3142/Hw1[00m$ g++ version-version-version
+g++ (Ubuntu 9.3.0-10ubuntu2) 9.3.0
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+]0;justin@DESKTOP-US45HKP: /mnt/f/CS/CS-3142/Hw1[01;32mjustin@DESKTOP-US45HKP[00m:[01;34m/mnt/f/CS/CS-3142/Hw1[00m$ make --version
+GNU Make 4.2.1
+Built for x86_64-pc-linux-gnu
+Copyright (C) 1988-2016 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+]0;justin@DESKTOP-US45HKP: /mnt/f/CS/CS-3142/Hw1[01;32mjustin@DESKTOP-US45HKP[00m:[01;34m/mnt/f/CS/CS-3142/Hw1[00m$ git --version
+git version 2.25.1
+]0;justin@DESKTOP-US45HKP: /mnt/f/CS/CS-3142/Hw1[01;32mjustin@DESKTOP-US45HKP[00m:[01;34m/mnt/f/CS/CS-3142/Hw1[00m$ mkdir Hellow[K[KoWorld.cpp
+mkdir: cannot create directory ‘HelloWorld.cpp’: File exists
+]0;justin@DESKTOP-US45HKP: /mnt/f/CS/CS-3142/Hw1[01;32mjustin@DESKTOP-US45HKP[00m:[01;34m/mnt/f/CS/CS-3142/Hw1[00m$ ls
+[0m[01;32mHelloWorld.cpp[0m  [01;32mscript-2022-09-06.log[0m  [01;32mtime-2022-09-06.txt[0m
+]0;justin@DESKTOP-US45HKP: /mnt/f/CS/CS-3142/Hw1[01;32mjustin@DESKTOP-US45HKP[00m:[01;34m/mnt/f/CS/CS-3142/Hw1[00m$ g++ HelloWorld.cpp 
+]0;justin@DESKTOP-US45HKP: /mnt/f/CS/CS-3142/Hw1[01;32mjustin@DESKTOP-US45HKP[00m:[01;34m/mnt/f/CS/CS-3142/Hw1[00m$ ls
+[0m[01;32mHelloWorld.cpp[0m  [01;32ma.out[0m  [01;32mscript-2022-09-06.log[0m  [01;32mtime-2022-09-06.txt[0m
+]0;justin@DESKTOP-US45HKP: /mnt/f/CS/CS-3142/Hw1[01;32mjustin@DESKTOP-US45HKP[00m:[01;34m/mnt/f/CS/CS-3142/Hw1[00m$ ./a.out 
+Hello World
+]0;justin@DESKTOP-US45HKP: /mnt/f/CS/CS-3142/Hw1[01;32mjustin@DESKTOP-US45HKP[00m:[01;34m/mnt/f/CS/CS-3142/Hw1[00m$ exit
+
+Script done on 2022-09-06 23:54:25-04:00 [COMMAND_EXIT_CODE="0"]
