@@ -2,8 +2,9 @@ name: Hello World
 on: [push]
 jobs:
   HelloWorld:
-    runs-on: ubuntu-latest
+    runs-on:  ubuntu-lastest
     steps:
-        -run: echo "Running makefile"
-        -name: make
-        run: make hello
+      -run: echo "Running makefile"
+      -name: create prog
+        run: g++ hello.cpp
+      -run: ./a.out
