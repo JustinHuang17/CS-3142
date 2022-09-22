@@ -31,4 +31,5 @@ Int i has the value of 10 and ri also has the value of 10.
 (A) - Created an int i with value -1 and pointer r to reference the value 0
 (C) - Created an const i with value -1 and pointer r to referebce the value 0
 (G) - Created an int const i2 with the value that i has and created a pointer r pointing to i.
-
+**Excercis 2.28**
+(A)&(B) - Both created a constant pointer but never referenced anything to it.
