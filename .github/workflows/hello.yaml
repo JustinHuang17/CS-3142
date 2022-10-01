@@ -4,6 +4,7 @@ jobs:
   HelloWorld:
     runs-on: ubuntu-latest
     steps:
-      run: echo "Running makefile"
-      run: g++ hello.cpp
-      run: ./a.out
+      -run: echo "Running makefile"
+      -name: create prog
+      -run: g++ hello.cpp
+      -run: ./a.out
