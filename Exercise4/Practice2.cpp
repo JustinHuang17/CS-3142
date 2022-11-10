@@ -26,7 +26,7 @@ cout << "This amount of soda will kill you " << sodaAmount << endl;;
 cout << "Would you like to check another weight? (Y/N) ";
 cin >> exit;
 
-if(exit=='N'){
+if(exit=='N' || 'n'){
     return 0;
 }
 

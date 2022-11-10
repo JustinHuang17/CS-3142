@@ -21,7 +21,7 @@ int Tsum(string word){
     return total;
 }
 
-int main()
+int Problem5_1()
 {
     string number;
     cout << "Enter a number ";
