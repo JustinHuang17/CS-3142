@@ -1,0 +1,3 @@
+This is the Average Temp- 64.7778
+Thus is the Moving Average of Jan 43.6667
+Thus is the Weighted Moving Average of Jan 21.8333
