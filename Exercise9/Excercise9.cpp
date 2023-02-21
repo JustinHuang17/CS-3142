@@ -9,7 +9,7 @@ void Read_In(vector <string> &row){
     fstream File;
     File.open("weather.cvs", ios::in);
 
-    string line, word, temp;
+    string line, word;
     row.clear();
     while (true) {
 
